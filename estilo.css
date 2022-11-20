@@ -1,0 +1,68 @@
+div
+{
+    border: 1px solid lightgray;
+    border-radius: 7px;
+    border-spacing: 0px;
+    width: 110px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+.bloco
+{
+display: inline-block;
+}
+.dias
+{
+background-color: #eeeeee;
+height: 35px;
+font-size: 18px;
+}
+.sem
+{
+width: 90px;
+font-size: 14px;
+color: rgb(60, 60, 60);
+position: relative;
+bottom: 9px;
+left: 11px;
+}
+.dom
+ {
+background-color: rgb(252, 255, 96);
+color: rgb(215, 0, 0);
+position: relative;
+bottom: 6px;
+ }
+.sab
+{
+background-color:rgba(0, 0, 255, 0.2);
+color: rgb(0, 0, 150);
+}
+.titulo
+{
+color: rgb(115, 115, 115);
+font-size: 48px;
+font-weight: 600;
+font-family:Arial, Helvetica, sans-serif;
+margin-bottom: 25px;
+}
+.tu
+{
+    border: 0px;
+    position: relative;
+    top: 10px;
+    right: 5px;
+}
+.vq
+{
+    border: 0px;
+    position: relative;
+   bottom: 5px;
+   left: 5px;
+}
